@@ -74,9 +74,30 @@ Everything profiled for AdsGPT is published on APIs.io rather than in this repos
 
 ### APIs (1)
 
-- AdsGPT API — AdsGPT public API (undocumented machine‑readable spec).
+- [AdsGPT API](https://apis.io/apis/adsgpt-dev/adsgpt-api/) — AdsGPT public API (undocumented machine‑readable spec).
 
-_These APIs get their own pages on APIs.io at the next catalog build, and this README is re-rendered with links when they do._
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Adsgpt Dev Authentication](https://apis.io/security/adsgpt-dev/adsgpt-dev-authentication/)
+- [Adsgpt Dev Domain Security](https://apis.io/security/adsgpt-dev/adsgpt-dev-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Adsgpt Dev Scopes](https://apis.io/scopes/adsgpt-dev/adsgpt-dev-scopes/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Adsgpt Dev Rate Limits](https://apis.io/rate-limits/adsgpt-dev/adsgpt-dev-rate-limits/)
 
 ## Where to find this API
 
@@ -90,7 +111,47 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/adsgpt-dev/](https://apis.io/providers/adsgpt-dev/).
+**Kin Score 22.9** — emerging · rubric 0.26.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 56.7 |
+| Contract quality | 0.0 |
+| Contract governance | 16.4 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 42.9 |
+| Access clarity | 21.1 |
+
+**Agent readiness 11.7** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 31.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/adsgpt-dev/](https://apis.io/providers/adsgpt-dev/).
 
 ## How this profile is made
 
