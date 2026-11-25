@@ -66,7 +66,7 @@
 
 AdsGPT is an AI-powered advertising platform that creates, launches, and optimizes ad campaigns across Google, Instagram, TikTok, LinkedIn, and more. Users simply describe their product or provide a URL, and AdsGPT generates creatives, copy, targeting, and budgets, continuously optimizing spend for maximum ROI. The service supports multiple brands, offers free and paid plans, and integrates with major ad networks, providing a unified dashboard for campaign management and performance insights.
 
-**Areas:** Company · Advertising · AI · Marketing · Automation · Platform
+**Areas:** Company · Advertising · Artificial Intelligence · Marketing · Automation · Platform
 
 ## AdsGPT on APIs.io
 
@@ -80,24 +80,30 @@ Everything profiled for AdsGPT is published on APIs.io rather than in this repos
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [adsgpt-dev-mcp.yml](https://apis.io/servers/adsgpt-dev/adsgpt-dev-mcp-yml/)
+
 #### Security (2)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Adsgpt Dev Authentication](https://apis.io/security/adsgpt-dev/adsgpt-dev-authentication/)
-- [Adsgpt Dev Domain Security](https://apis.io/security/adsgpt-dev/adsgpt-dev-domain-security/)
+- [AdsGPT Authentication](https://apis.io/security/adsgpt-dev/adsgpt-dev-authentication/)
+- [AdsGPT Domain Security](https://apis.io/security/adsgpt-dev/adsgpt-dev-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Adsgpt Dev Scopes](https://apis.io/scopes/adsgpt-dev/adsgpt-dev-scopes/)
+- [AdsGPT Scopes](https://apis.io/scopes/adsgpt-dev/adsgpt-dev-scopes/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [Adsgpt Dev Rate Limits](https://apis.io/rate-limits/adsgpt-dev/adsgpt-dev-rate-limits/)
+- [AdsGPT Rate Limits](https://apis.io/rate-limits/adsgpt-dev/adsgpt-dev-rate-limits/)
 
 ## Where to find this API
 
@@ -111,18 +117,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 22.9** — emerging · rubric 0.26.0 · scored 2026-10-31
+**Kin Score 23.7** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
 | Discoverability | 56.7 |
 | Contract quality | 0.0 |
-| Contract governance | 16.4 |
+| Contract governance | 18.2 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 42.9 |
-| Access clarity | 21.1 |
+| Access clarity | 27.7 |
 
-**Agent readiness 11.7** — agent-aware
+**Agent readiness 11.8** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -148,8 +154,11 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 31.8** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 26.4** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/adsgpt-dev/](https://apis.io/providers/adsgpt-dev/).
 
